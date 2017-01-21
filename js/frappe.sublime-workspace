@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"awesomeThoughts"
+			],
+			[
+				"awee",
+				"awesomeThoughts"
+			],
+			[
+				"awe",
+				"awesome"
+			],
+			[
+				"zero",
+				"zero_debit_credit"
+			],
+			[
+				"zer",
+				"zero_debit_credit"
+			],
+			[
+				"memb",
+				"member_status"
+			],
+			[
+				"m",
+				"msgprint"
+			],
+			[
+				"member",
+				"member_name"
+			],
+			[
+				"article",
+				"article_status"
+			],
+			[
+				"db",
+				"dbsession"
+			],
+			[
+				"dep",
+				"departments"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"des",
+				"Description"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/manas/Udacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/home/manas/Udacity/frontend-nanodegree-resume/index.html",
+		"/home/manas/Udacity/frontend-nanodegree-resume/js/helper.js",
+		"/home/manas/frappe/frappe-bench/apps/library/setup.py",
+		"/home/manas/udacity.sublime-project",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/desk/page/modules/modules.js",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/public/js/frappe/form/dashboard.js",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/startup/notifications.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/public/js/frappe/desk.js",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/accounts/doctype/accounts_settings/accounts_settings.json",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/accounts/doctype/account/account.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py",
+		"/home/manas/frappe/frappe-bench/sites/assets/frappe/js/frappe/ui/page.js",
+		"/home/manas/tryenchant.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/base_document.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/utils/data.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/doctype/library_membership/library_membership.py",
+		"/home/manas/Udacity/frontend-nanodegree-resume/js/jQuery.js",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/modules/utils.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/modules/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/.git/MERGE_MSG",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/.git/rebase-merge/git-rebase-todo",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/stock/report/item_shortage_report/item_shortage_report.json",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/stock/report/item_shortage_report/__init__.py",
+		"/home/manas/Udacity/Git and Github/asteroids/index.html",
+		"/home/manas/Udacity/Git and Github/commands.txt",
+		"/home/manas/Udacity/Git and Github/version-control/reflections/lesson_1_reflections.txt",
+		"/home/manas/.bashrc",
+		"/home/manas/Udacity/Git and Github/version-control/reflections/lesson_1_reflections_prompts.txt",
+		"/home/manas/Udacity/Git and Github/asteroids/index,html",
+		"/home/manas/frappe/frappe-bench/manas.textr",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/doctype/library_membership/library_membership.js",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/doctype/library_transaction/library_transaction.js",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/api.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/utils/__init__.py",
+		"/home/manas/frappe/frappe-bench/env/lib/python2.7/site-packages/babel/support.py",
+		"/home/manas/frappe/frappe-bench/sites/assets/frappe/js/frappe/misc/datetime.js",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/course_schedule/course_schedule.js",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/student_applicant/student_applicant.js",
+		"/home/manas/frappe/frappe-bench/env/lib/python2.7/site-packages/werkzeug/wrappers.py",
+		"/home/manas/frappe/frappe-bench/sites/assets/frappe/js/lib/jquery/qunit.js",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/program_enrollment/program_enrollment.js",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/doctype/library_transaction/library_transaction.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/api.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/mapper.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/library/doctype/library_member/library_member.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/hooks.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/student_applicant/student_applicant.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/student_applicant/student_applicant.json",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/create_new.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/config/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/config/desktop.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/config/docs.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/library/library/hooks.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/core/page/desktop/desktop_icon_grid.html",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/core/page/desktop/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/config/desktop.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/www/robots.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/www/desk.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/api.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/templates/base.html",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/installer.py",
+		"/home/manas/frappe/bench-repo/bench/commands/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/config/docs.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/config/desktop.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/setup.py",
+		"/home/manas/frappe/bench-repo/bench/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/modules/import_file.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/document.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/delete_doc.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/db_schema.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/docfield.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/workflow.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/sync.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/rename_doc.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/naming.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/meta.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model/dynamic_links.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/templates/autodoc/contents.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/database.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/lib_man/doctype/library_transaction/library_transaction.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/student/student.py",
+		"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/schools/doctype/student_attendance/student_attendance.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/lib_man/doctype/library_transaction/library_transaction.js",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/lib_man/lib_man/hooks.py",
+		"/home/manas/frappe/frappe-bench/apps/library_management/library_management/library_management/doctype/library_member/library_member.py",
+		"/home/manas/frappe/bench-repo/bench/commands/setup.py",
+		"/home/manas/frappe/bench-repo/bench/app.py",
+		"/home/manas/frappe/frappe-bench/apps/library_management/library_management/library_management/doctype/article/article.py",
+		"/home/manas/frappe/bench-repo/bench/commands/make.py",
+		"/home/manas/frappe/bench-repo/bench/commands/update.py",
+		"/home/manas/frappe/bench-repo/bench/commands/config.py",
+		"/home/manas/frappe/frappe-bench/sites/common_site_config.json",
+		"/home/manas/frappe/frappe-bench/sites/site1.local/site_config.json",
+		"/home/manas/frappe/frappe-bench/sites/library/site_config.json",
+		"/home/manas/frappe/bench-repo/bench/commands/git.py",
+		"/home/manas/frappe/frappe-bench/apps/library_management/library_management/hooks.py",
+		"/home/manas/frappe/frappe-bench/apps/library_management/library_management/config/desktop.py",
+		"/home/manas/frappe/frappe-bench/apps/frappe/frappe/templates/generators/web_form.html",
+		"/home/manas/frappe/frappe-bench/apps/meeting/meeting/config/desktop.py",
+		"/home/manas/frappe/frappe-bench/apps/meeting/meeting/__init__.py",
+		"/home/manas/frappe/frappe-bench/apps/meeting/meeting/hooks.py",
+		"/home/manas/frappe/frappe-bench/apps/meeting/setup.py",
+		"/home/manas/Projects/app/project.py",
+		"/home/manas/Projects/udacity/db_schema.py",
+		"/home/manas/Projects/udacity/database_setup.py",
+		"/home/manas/Projects/app/templates/signup.html",
+		"/home/manas/Projects/app/templates/dock.html",
+		"/home/manas/Projects/app/templates/base.html",
+		"/home/manas/Projects/app/database_setup.py",
+		"/home/manas/Projects/app/templates/review.html",
+		"/home/manas/Projects/app/templates/home.html",
+		"/home/manas/Projects/app/templates/department.html",
+		"/home/manas/Projects/app/templates/login.html",
+		"/home/manas/Projects/app/static/styles.css",
+		"/home/manas/Projects/app/Database filler/db_script.py",
+		"/home/manas/Projects/app/db_script.py",
+		"/home/manas/Projects/app/Database filler/user_100.json",
+		"/home/manas/Projects/flaskapp/app.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/manas/frappe/frappe-bench/apps",
+			"/home/manas/frappe/frappe-bench",
+			"/home/manas/frappe/frappe-bench/apps/erpnext/erpnext/accounts/doctype/journal_entry",
+			"/home/manas/frappe/frappe-bench/apps",
+			"/home/manas/frappe/frappe-bench",
+			"/home/manas/frappe/frappe-bench/apps/frappe",
+			"/home/manas/frappe/frappe-bench",
+			"/home/manas/frappe",
+			"/home/manas/frappe/bench-repo",
+			"/home/manas/frappe/frappe-bench",
+			"/home/manas/frappe/frappe-bench/apps/frappe/frappe/model",
+			"/home/manas/frappe/frappe-bench/apps/frappe",
+			"/home/manas/frappe/frappe-bench"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"frappe.start_app = function()",
+			"notification.py",
+			"render_section",
+			"set_headline",
+			"open-notification",
+			"grid-add-row",
+			"frappe.search",
+			"awesome_bar",
+			"load_doctype_module",
+			"item shortage report",
+			"bom.js",
+			"today",
+			"frappe.ui.form",
+			"awesome_bar.js",
+			"awesome",
+			"Available",
+			"div id=\"icon-grid\"",
+			"bench start",
+			"list-apps",
+			"list-app",
+			"save",
+			"queries",
+			"optradio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "frappe.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helper",
+				"frontend-nanodegree-resume/js/helper.js"
+			],
+			[
+				"notifi",
+				"apps/erpnext/erpnext/startup/notifications.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
